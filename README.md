@@ -13,8 +13,9 @@ O **SIDEBAR** é um menu de navegação simples e elegante, desenvolvido com HTM
 - Fácil personalização
 
 ## Capturas de Tela
-<img src="./assets/sidebar aberto.png" alt="">
 <img src="./assets/sidebarfechado.png" alt="">
+<img src="./assets/sidebar aberto.png" alt="">
+
 
 
 
